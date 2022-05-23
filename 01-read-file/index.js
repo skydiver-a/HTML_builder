@@ -13,6 +13,5 @@ class ReadNotes {
   }
 }
 
-
 const readNotes = new ReadNotes();
 readNotes.view();
